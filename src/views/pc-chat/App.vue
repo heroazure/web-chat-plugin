@@ -77,7 +77,11 @@
                 showQrcode:false,
                 inputVal:'',
                 connectTimes:10,//重连最多10次
-                merchantInfo:{},
+                merchantInfo:{
+                  logo_path: 'https://avatars1.githubusercontent.com/u/9244211?v=4',
+                  name: '新白鹿',
+                  tips: '热烈欢迎...'
+                },
                 loadingMessages:{
                     noMoreMessages:false,
                     loadingMoreMessages:false

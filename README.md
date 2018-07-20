@@ -56,3 +56,5 @@
   yarn run dev
   
   访问： localhost:9900/plugin
+  
+<img style="width:60%;height:auto;" src="http://oonwiy2x0.bkt.clouddn.com/pic.jpg"/>

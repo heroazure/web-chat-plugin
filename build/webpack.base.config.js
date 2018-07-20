@@ -1,7 +1,7 @@
 /**
  * Created by xuwei on 2017/4/18.
  */
-const webpack = require('webpack')
+// const webpack = require('webpack')
 const path = require('path')
 const util = require('./util')
 
@@ -46,8 +46,8 @@ module.exports = {
           {
             loader: 'url-loader',
             query: {
-              limit: 10000,
-              name: 'img/[name].[hash:7].[ext]'
+              limit: 10,
+              name: 'img/[name].[ext]'
             }
           },
           {
